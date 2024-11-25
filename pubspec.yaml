@@ -1,0 +1,10 @@
+name: printing
+description: >
+  Plugin that allows Flutter apps to generate and print documents to
+  compatible printers on Android, iOS, macOS, Windows, and Linux,
+  as well as web print.
+version: 5.13.4
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+  flutter: ">=3.22.0"
